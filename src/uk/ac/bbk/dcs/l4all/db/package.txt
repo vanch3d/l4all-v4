@@ -1,0 +1,9 @@
+/**
+	@package uk.ac.bbk.dcs.l4all.db
+	@brief Package containing some helpers for DB management (mySQL)
+
+	
+ 
+
+**/
+ 

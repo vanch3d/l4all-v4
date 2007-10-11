@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item><label>Unknow</label><attribute name="id">0.0.0.0</attribute></item>
+	<item><label>Entry Level Certificate</label><attribute name="id">1.0.0.0</attribute></item>
+	<item><label>NQF Level 1</label><attribute name="id">2.0.0.0</attribute><list>
+		<item><label>GCSE grades D-G</label><attribute name="id">2.1.0.0</attribute></item>
+		<item><label>BTEC Introductory Diploma and Certificate</label><attribute name="id">2.2.0.0</attribute></item>
+		<item><label>NVQ Level 1</label><attribute name="id">2.3.0.0</attribute></item>
+	</list></item>
+	<item><label>NQF Level 2</label><attribute name="id">3.0.0.0</attribute><list>
+		<item><label>GCSE grades A*-C</label><attribute name="id">3.1.0.0</attribute></item>
+		<item><label>Intermediate GNVQ</label><attribute name="id">3.2.0.0</attribute></item>
+		<item><label>NVQ Level 2</label><attribute name="id">3.3.0.0</attribute></item>
+		<item><label>BTEC First Diploma and Certificate</label><attribute name="id">3.4.0.0</attribute></item>
+		<item><label>Key Skills Level 2</label><attribute name="id">3.5.0.0</attribute></item>
+	</list></item>
+	<item><label>NQF Level 3</label><attribute name="id">4.0.0.0</attribute><list>
+		<item><label>A-level</label><attribute name="id">4.1.0.0</attribute></item>
+		<item><label>AVCE</label><attribute name="id">4.2.0.0</attribute></item>
+		<item><label>BTEC National Diploma, Certificate and Award</label><attribute name="id">4.3.0.0</attribute></item>
+		<item><label>BTEC Diploma in Foundation Studies</label><attribute name="id">4.4.0.0</attribute></item>
+		<item><label>Advanced GNVQ</label><attribute name="id">4.5.0.0</attribute></item>
+		<item><label>Access to Higher Education Level 3</label><attribute name="id">4.6.0.0</attribute></item>
+		<item><label>NVQ Level 3</label><attribute name="id">4.7.0.0</attribute></item>
+	</list></item>
+	<item><label>NQF Level 4</label><attribute name="id">5.0.0.0</attribute><list>
+		<item><label>Certificate of Higher Education</label><attribute name="id">5.1.0.0</attribute></item>
+	</list></item>
+	<item><label>NQF Level 5</label><attribute name="id">6.0.0.0</attribute><list>
+		<item><label>Foundation Degree</label><attribute name="id">6.1.0.0</attribute></item>
+		<item><label>Bachelor Degree</label><attribute name="id">6.2.0.0</attribute></item>
+		<item><label>Diploma of Higher Education</label><attribute name="id">6.3.0.0</attribute></item>
+		<item><label>BTEC Higher National Diploma</label><attribute name="id">6.4.0.0</attribute></item>
+	</list></item>
+	<item><label>NQF Level 6</label><attribute name="id">7.0.0.0</attribute><list>
+		<item><label>Bachelor Degree (with Honors)</label><attribute name="id">7.1.0.0</attribute></item>
+		<item><label>Graduate Certificate</label><attribute name="id">7.2.0.0</attribute></item>
+		<item><label>Graduate Diploma</label><attribute name="id">7.3.0.0</attribute></item>
+	</list></item>
+	<item><label>NQF Level 7</label><attribute name="id">8.0.0.0</attribute><list>
+		<item><label>Master Degree</label><attribute name="id">8.1.0.0</attribute></item>
+		<item><label>Postgraduate Certificate</label><attribute name="id">8.2.0.0</attribute></item>
+		<item><label>Postgraduate Diploma</label><attribute name="id">8.3.0.0</attribute></item>
+	</list></item>
+	<item><label>NQF Level 8</label><attribute name="id">9.0.0.0</attribute><list>
+		<item><label>Doctorate</label><attribute name="id">9.1.0.0</attribute></item>
+	</list></item>
+</list>
+

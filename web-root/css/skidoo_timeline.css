@@ -1,0 +1,71 @@
+@CHARSET "ISO-8859-1";
+
+div#openpane
+{
+	float: right;
+	display: none; 
+	margin-top:-20px;
+}
+
+div#closepane
+{
+	padding:5px; 
+	text-align:right;
+	margin:-10px;
+	border-width: 0px; 
+	border-style: solid;
+}
+
+	
+div.friendlist
+{
+	padding: 1px; 
+	height: 300px; 
+	overflow: auto; 
+	border: 1px solid #9999FF;
+	/*border-right:  none;*/
+}
+
+div.friendlist div.friend
+{
+	margin:0px 0px 1px 0px; 
+	padding: 2px; 
+	border:1px solid #9999FF; 
+	background-color:#DDDDFF; 
+	height: 80px;
+}
+
+div.friendlist div.expert
+{
+	background-color:#F7D7D7; 
+}
+
+div.friendlist div.friend img
+{
+	float: right;
+	width: 25px;
+	height: 25px;
+}
+
+div.friendlist div.friend button.delete
+{
+	text-align:		center;
+	font-size:		xx-small;
+	width: 			25px;
+	margin-top:		60px;
+	margin-right:	-25px; 
+	float: 			right;
+}
+
+div.friendlist div.friend div.title
+{
+	padding: 0px 0px 3px 0px; 
+	
+}
+
+div.friendlist div.friend div.description
+{
+	overflow: hidden; 
+	font-size: xx-small;
+	height: 60px;	
+}

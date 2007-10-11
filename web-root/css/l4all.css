@@ -1,0 +1,62 @@
+BODY
+{
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-IMAGE: url(../images/bkgrd.gif);
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    BACKGROUND-REPEAT: repeat-y;
+    FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif;
+	background-color: #336799;
+    padding-top: 70px;
+}
+
+div.TimeBar
+{
+    max-width: 1000px;
+    height: 400px;
+    border: 1px solid #aaa;
+
+}
+.MainBar
+{
+    max-width: 1000px;
+    padding-bottom: 100px;
+
+}
+
+INPUT.btn
+{
+	color:#008000;;
+	font-family:'trebuchet ms',helvetica,sans-serif;
+	font-weight:bold;
+}
+
+div._attach, a._attach, span._attach
+{
+	position:relative;
+  background: #FFFFEE url(../images/arrow.png) no-repeat center right;
+  width: 150px;
+  border: 1px solid black;
+  padding: 5px 5px;
+  font-weight: 900;
+  color: #008000;
+}
+
+a._attach
+{
+  display: block;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+form._attach
+{
+	z-index:100;
+  position: absolute;
+  visibility: hidden;
+  border: 1px solid black;
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  background: #FFFFEE;
+  padding: 0px 5px 2px 5px;
+}

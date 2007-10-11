@@ -1,0 +1,9 @@
+/**
+	@package uk.ac.shef.wit.simmetrics.similaritymetrics
+	@brief Package containing extensions of the SimilarityMetrics library
+
+	
+ 
+
+**/
+ 

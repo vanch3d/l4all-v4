@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portlet-app xmlns="/org/apache/pluto/portalImpl/xml/portlet-app_1_0.xsd" 
+			 version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			 xsi:schemaLocation="/org/apache/pluto/portalImpl/xml/portlet-app_1_0.xsd /org/apache/pluto/portalImpl/xml/portlet-app_1_0.xsd">
+	<portlet>
+        <description>User Registration Portlet</description>
+        <portlet-name>UserProfilePortlet</portlet-name>
+        <display-name>User Profile</display-name>
+		
+        <portlet-class>uk.ac.bbk.dcs.l4all.portlets.UserProfilePortlet</portlet-class>
+
+        <init-param>
+            <name>jspView</name>
+            <value>/jsp/register.jsp</value>
+			<name>jspEdit</name>
+            <value>/jsp/edit_profile.jsp</value>
+        </init-param>
+		        
+        <expiration-cache>-1</expiration-cache>
+		        
+        <supports>
+			<mime-type>text/html</mime-type>
+            <portlet-mode>VIEW</portlet-mode>
+            <portlet-mode>EDIT</portlet-mode>
+		</supports>
+
+        <supported-locale>en</supported-locale>        
+
+		<portlet-info>
+			<title>User Preferences</title>
+			<short-title>Preferences</short-title>
+			<keywords>preferences</keywords>
+        </portlet-info>
+	</portlet>
+	
+	<portlet>
+        <description>Search Portlet</description>
+        <portlet-name>SearchPortlet</portlet-name>
+        <display-name>L4All Search</display-name>
+		
+        <portlet-class>uk.ac.bbk.dcs.l4all.portlets.Search</portlet-class>
+
+        <expiration-cache>-1</expiration-cache>
+		        
+        <supports>
+			<mime-type>text/html</mime-type>
+            <portlet-mode>VIEW</portlet-mode>
+            <portlet-mode>EDIT</portlet-mode>
+		</supports>
+
+        <supported-locale>en</supported-locale>        
+
+		<portlet-info>
+			<title>L4All Search</title>
+			<short-title>search</short-title>
+			<keywords>search</keywords>
+        </portlet-info>
+	</portlet>
+ </portlet-app>

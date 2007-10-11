@@ -1,0 +1,9 @@
+/**
+	@package uk.ac.bbk.dcs.l4all.util
+	@brief Package containing various utilities
+
+	
+ 
+
+**/
+ 

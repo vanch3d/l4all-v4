@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+div.copyright
+{
+	font-style: italic;
+}
+
+#masthead h1  {padding: 0px; margin: 0px;}
+
+div.admin
+{
+	font-style: italic;
+	font-size: x-small;
+}

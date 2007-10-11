@@ -1,0 +1,381 @@
+@CHARSET "ISO-8859-1";
+
+/* form.css */
+form.tableless {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	min-width: 520px;
+	max-width: 620px;
+	width: 520px;
+}
+
+form.tableless fieldset {
+	clear: both;
+	font-size: 100%;
+	border-color: #000000;
+	border-width: 1px 0 0 0;
+	border-style: solid none none none;
+	padding: 10px;
+	margin: 0 0 0 0;
+}
+
+form.tableless fieldset.submit {
+	border-style: none;
+}
+
+form.tableless fieldset legend {
+	font-size: 150%;
+	font-weight: normal;
+	color: #000000;
+	margin: 0 0 0 0;
+	padding: 0 5px;
+}
+
+/*label {
+  font-size: 100%;
+}
+
+label u {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+input, select, textarea {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 100%;
+  color: #000000;
+}
+
+textarea {
+  overflow: auto;
+}*/
+
+form.tableless div {
+	clear: left;
+	/*display: block;*/
+	width: 314px;
+	height: expression('1%');
+	margin: 5px 0 0 0;
+	padding: 1px 3px;
+}
+
+form.tableless div.debug {
+	font-weight: normal;
+	float: right;
+	text-align: right;
+	width:520px;
+	/*display: none;*/
+	/* hide or unhide this to get the 'debug' fields visible */
+}
+
+
+form.tableless div.debug input {
+	width: 40px;
+}
+
+form.tableless fieldset div.notes {
+	float: right;
+	width: 158px;
+	height: auto;
+	margin: 0 0 10px 10px;
+	padding: 5px;
+	border: 1px solid #666666;
+	background-color: #ffffe1;
+	color: #666666;
+	font-size: 88%;
+}
+
+form.tableless fieldset div.notes h4 {
+	background-image: url(../images/icon_info.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	padding: 3px 0 3px 27px;
+	border-width: 0 0 1px 0;
+	border-style: solid;
+	border-color: #666666;
+	color: #666666;
+	font-size: 110%;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+form.tableless fieldset div.notes p {
+	margin: 10px 0em 10px 0em;
+	color: #666666;
+}
+
+form.tableless fieldset div.notes p.last {
+	margin: 10px 0em 10px 0em;
+}
+
+form.tableless div fieldset {
+	clear: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #666666;
+	margin: 0 0 0 100px;
+	padding: 0 5px 5px 5px;
+	width: 197px;
+}
+
+form.tableless div fieldset legend {
+	font-size: 100%;
+	padding: 0 3px 0 9px;
+}
+
+form.tableless div.required fieldset legend {
+	font-weight: bold;
+}
+
+form.tableless div label {
+	display: block;
+	float: left;
+	width: 90px;
+	padding: 3px 5px;
+	margin: 0 0 5px 0;
+	text-align: right;
+}
+
+form.tableless div.optional label,label.optional {
+	font-weight: normal;
+}
+
+form.tableless div.required label,label.required {
+	font-weight: bold;
+}
+
+form.tableless div label.labelCheckbox,form.tableless div label.labelRadio
+	{
+	float: none;
+	display: block;
+	width: 200px;
+	height: expression('1%');
+	padding: 0;
+	margin: 0 0 5px 142px;
+	text-align: left;
+}
+
+form.tableless div fieldset label.labelCheckbox,form.tableless div fieldset label.labelRadio
+	{
+	margin: 0 0 5px 0;
+	width: 170px;
+}
+
+form.tableless div fieldset div.colorpicker
+{
+	text-align:center;
+	clear: none;
+	float: left; 
+	font-weight: bold;
+	font-size: x-small; 
+	width:40px
+}
+
+form.tableless div input.colorpicker
+{
+	cursor:pointer; 
+	width: 10px; 
+	height: 10px; 
+	border: 1px solid gray; 
+	padding: 10px;
+	/*display: block;*/
+/*	margin: 0 10px 0 0; */
+}
+
+form.tableless div img {
+	border: 1px solid #000000;
+}
+
+p.error {
+	background-color: #ff0000;
+	background-image: url(../images/icon_error.gif);
+	background-repeat: no-repeat;
+	background-position: 3px 3px;
+	color: #ffffff;
+	padding: 3px 3px 5px 27px;
+	border: 1px solid #000000;
+	margin: auto 100px;
+}
+
+p.success {
+	background-color: #ffffe1;
+	background-image: url(../images/icon_error.gif);
+	background-repeat: no-repeat;
+	background-position: 3px 3px;
+	color: #00;
+	padding: 3px 3px 5px 27px;
+	border: 1px solid #000000;
+	margin: auto 100px;
+}
+
+form.tableless div.error {
+	background-color: #ffffe1;
+	background-image: url(../images/required_bg.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+	color: #666666;
+	border: 1px solid #ff0000;
+}
+
+form.tableless div.error p.error {
+	background-image: url(../images/icon_error.gif);
+	background-position: top left;
+	background-color: transparent;
+	border-style: none;
+	font-size: 88%;
+	font-weight: bold;
+	margin: 0 0 0 118px;
+	width: 200px;
+	color: #ff0000;
+}
+
+form.tableless div input,form.tableless div select,form.tableless div textarea
+{
+	width: 200px;
+	padding: 1px 3px;
+	margin: 0 0 0 0;
+}
+
+form.tableless div input.inputFile {
+	width: 211px;
+}
+
+form.tableless div input.inputPicker {
+	width: 149px;
+}
+
+form.tableless div button.inputPicker {
+	width: 50px;
+}
+
+form.tableless div select.selectOne,form.tableless div select.selectMultiple
+	{
+	width: 211px;
+	padding: 1px 3px;
+
+}
+
+form.tableless div input.inputCheckbox,form.tableless div input.inputRadio,input.inputCheckbox,input.inputRadio
+	{
+	display: inline;
+	height: 14px;
+	width: 14px;
+	background-color: transparent;
+	border-width: 0;
+	padding: 0;
+	margin: 0 0 0 0px;
+}
+
+form.tableless div.submit {
+	/*width: 214px;*/
+	padding: 0 0 0 146px;
+}
+
+form.tableless div.submit div { /* display: inline;*/
+	float: left;
+	text-align: left;
+	width: auto;
+	padding: 0;
+	margin: 0;
+}
+
+form.tableless div input.inputSubmit,form.tableless div input.inputButton,input.inputSubmit,input.inputButton
+	{ /*background-color: #cccccc;
+  color: #000000;*/
+	width: auto;
+	padding: 0 6px;
+	margin: 0;
+}
+
+form.tableless div.submit div input.inputSubmit,form.tableless div.submit div input.inputButton
+	{
+	float: right;
+	margin: 0 0 0 5px;
+}
+
+form.tableless div small {
+	display: block;
+	margin: 0 0 5px 102px;
+	padding: 1px 3px;
+	font-size: 88%;
+	color: gray;
+	height: expression('1%');
+}
+
+/* form.import.css */
+form.tableless fieldset legend {
+	line-height: 150%;
+}
+
+form.tableless input,form.tableless select,form.tableless textarea {
+	/*  background-color: #ffffff;*/
+	
+}
+
+form.tableless textarea.expanding {
+	overflow: auto;
+	overflow-x: auto;
+	overflow-y: visible;
+}
+
+div.optional label:before {
+	content: '';
+}
+
+div.required label:before {
+	content: '';
+}
+
+form.tableless div label.labelCheckbox,form.tableless div label.labelRadio,label.labelCheckbox,label.labelRadio
+	{
+	display: block;
+	width: 190px;
+	height: expression('1%');
+	padding: 4px 0px 0px 18px;
+	text-indent: -18px;
+	line-height: 120%;
+}
+
+form.tableless div label.labelCheckbox input.inputCheckbox,form.tableless div label.labelRadio input.inputRadio,label.labelCheckbox input.inputCheckbox,label.labelRadio input.inputRadio
+	{
+	margin: 0px 0px 0px 0px;
+}
+
+form.tableless div fieldset input.inputText,form.tableless div fieldset input.inputPassword,form.tableless div fieldset input.inputFile,form.tableless div fieldset textarea.inputTextarea
+	{
+	width: 160px;
+	margin: 0px 0px 0px 18px;
+	margin: expression('0px 0px 0px -124px');
+}
+
+form.tableless div label.compact {
+	display: inline;
+	width: auto;
+	padding: 4px 10px 0px 0px;
+	text-indent: 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+form.tableless div.wide label {
+	float: none;
+	display: block;
+}
+
+form.tableless div label.wide {
+	width: 348px;
+}
+
+form.tableless div.wide input.inputText,form.tableless div.wide input.inputPassword,form.tableless div.wide input.inputFile,form.tableless div.wide select,form.tableless div.wide textarea
+	{
+	width: 344px;
+	margin: 0px;
+}
+
+form.tableless div.notes p,form.tableless div small {
+	line-height: 125%;
+}
+
+form.tableless div.wide small {
+	margin: 0px 0px 5px 0px;
+}

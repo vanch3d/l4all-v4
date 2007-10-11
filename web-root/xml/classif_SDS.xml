@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list id="0">
+
+<item><label>Unknow</label><attribute name="id">0.0.0.0</attribute></item>
+
+<item><label>Medicine and Dentistry</label><attribute name="id">1.0.0.0</attribute><list> 
+	<item><label>Pre-clinical Medicine</label><attribute name="id">1.1.0.0</attribute></item> 
+	<item><label>Pre-clinical Dentistry</label><attribute name="id">1.2.0.0</attribute></item> 
+	<item><label>Clinical Medicine</label><attribute name="id">1.3.0.0</attribute></item> 
+	<item><label>Clinical Dentistry</label><attribute name="id">1.4.0.0</attribute></item> 
+	<item><label>Other in Medicine and Dentistry</label><attribute name="id">1.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Subjects allied to Medicine</label><attribute name="id">2.0.0.0</attribute><list> 
+	<item><label>Anatomy, Physiology and Pathology</label><attribute name="id">2.1.0.0</attribute></item> 
+	<item><label>Pharmacology, Toxicology and Pharmacy</label><attribute name="id">2.2.0.0</attribute></item> 
+	<item><label>Complementary Medicine</label><attribute name="id">2.3.0.0</attribute></item> 
+	<item><label>Nutrition</label><attribute name="id">2.4.0.0</attribute></item> 
+	<item><label>Opthalmics</label><attribute name="id">2.5.0.0</attribute></item> 
+	<item><label>Aural and Oral Sciences</label><attribute name="id">2.6.0.0</attribute></item> 
+	<item><label>Nursing</label><attribute name="id">2.7.0.0</attribute></item> 
+	<item><label>Medical Technology</label><attribute name="id">2.8.0.0</attribute></item> 
+	<item><label>Other in Subjects allied to Medicine</label><attribute name="id">2.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Biological Sciences</label><attribute name="id">3.0.0.0</attribute><list> 
+	<item><label>Biology</label><attribute name="id">3.1.0.0</attribute></item> 
+	<item><label>Botany</label><attribute name="id">3.2.0.0</attribute></item> 
+	<item><label>Zoology</label><attribute name="id">3.3.0.0</attribute></item> 
+	<item><label>Genetics</label><attribute name="id">3.4.0.0</attribute></item> 
+	<item><label>Microbiology</label><attribute name="id">3.5.0.0</attribute></item> 
+	<item><label>Sports Science</label><attribute name="id">3.6.0.0</attribute></item> 
+	<item><label>Molecular Biology, Biophysics and Biochemistry</label><attribute name="id">3.7.0.0</attribute></item> 
+	<item><label>Psychology</label><attribute name="id">3.8.0.0</attribute></item> 
+	<item><label>Other in Biological Sciences</label><attribute name="id">3.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Veterinary Science, Agriculture and related subjects</label><attribute name="id">4.0.0.0</attribute><list> 
+	<item><label>Pre-clinical Veterinary Medicine</label><attribute name="id">4.1.0.0</attribute></item> 
+	<item><label>Clinical Veterinary Medicine and Dentistry</label><attribute name="id">4.2.0.0</attribute></item> 
+	<item><label>Animal Science</label><attribute name="id">4.3.0.0</attribute></item> 
+	<item><label>Agriculture</label><attribute name="id">4.4.0.0</attribute></item> 
+	<item><label>Forestry</label><attribute name="id">4.5.0.0</attribute></item> 
+	<item><label>Food and Beverage Studies</label><attribute name="id">4.6.0.0</attribute></item> 
+	<item><label>Agricultural Sciences</label><attribute name="id">4.7.0.0</attribute></item> 
+	<item><label>Other Veterinary Sciences, Agricultural and related subjects</label><attribute name="id">4.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Physical Sciences</label><attribute name="id">5.0.0.0</attribute><list> 
+	<item><label>Chemistry</label><attribute name="id">5.1.0.0</attribute></item> 
+	<item><label>Materials Science</label><attribute name="id">5.2.0.0</attribute></item> 
+	<item><label>Physics</label><attribute name="id">5.3.0.0</attribute></item> 
+	<item><label>Forensic and Archaeological Science</label><attribute name="id">5.4.0.0</attribute></item> 
+	<item><label>Astronomy</label><attribute name="id">5.5.0.0</attribute></item> 
+	<item><label>Geology</label><attribute name="id">5.6.0.0</attribute></item> 
+	<item><label>Ocean Sciences</label><attribute name="id">5.7.0.0</attribute></item> 
+	<item><label>Physical and Territorial Geography and Environmental Sciences</label><attribute name="id">5.8.0.0</attribute></item> 
+	<item><label>Other in Physical Sciences</label><attribute name="id">5.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Mathematical and Computer Sciences</label><attribute name="id">6.0.0.0</attribute><list> 
+	<item><label>Mathematics</label><attribute name="id">6.1.0.0</attribute></item> 
+	<item><label>Operational Research</label><attribute name="id">6.2.0.0</attribute></item> 
+	<item><label>Statistics</label><attribute name="id">6.3.0.0</attribute></item> 
+	<item><label>Computer Science</label><attribute name="id">6.4.0.0</attribute></item> 
+	<item><label>Information Systems</label><attribute name="id">6.5.0.0</attribute></item> 
+	<item><label>Software Engineering</label><attribute name="id">6.6.0.0</attribute></item> 
+	<item><label>Artificial Intelligence</label><attribute name="id">6.7.0.0</attribute></item> 
+	<item><label>Other in Mathematics and Computing Sciences</label><attribute name="id">6.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Engineering</label><attribute name="id">7.0.0.0</attribute><list> 
+	<item><label>General Engineering</label><attribute name="id">7.1.0.0</attribute></item> 
+	<item><label>Civil Engineering</label><attribute name="id">7.2.0.0</attribute></item> 
+	<item><label>Mechanical Engineering</label><attribute name="id">7.3.0.0</attribute></item> 
+	<item><label>Aerospace Engineering</label><attribute name="id">7.4.0.0</attribute></item> 
+	<item><label>Naval Architecture</label><attribute name="id">7.5.0.0</attribute></item> 
+	<item><label>Electronic and Electrical Engineering</label><attribute name="id">7.6.0.0</attribute></item> 
+	<item><label>Production and Manufacturing Engineering</label><attribute name="id">7.7.0.0</attribute></item> 
+	<item><label>Chemical, Process and Energy Engineering</label><attribute name="id">7.8.0.0</attribute></item> 
+	<item><label>Other in Engineering</label><attribute name="id">7.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Technologies</label><attribute name="id">8.0.0.0</attribute><list> 
+	<item><label>Minerals Technology</label><attribute name="id">8.1.0.0</attribute></item> 
+	<item><label>Metallurgy</label><attribute name="id">8.2.0.0</attribute></item> 
+	<item><label>Ceramics and Glasses</label><attribute name="id">8.3.0.0</attribute></item> 
+	<item><label>Polymers and Textiles</label><attribute name="id">8.4.0.0</attribute></item> 
+	<item><label>Materials Technology not otherwise specified</label><attribute name="id">8.5.0.0</attribute></item> 
+	<item><label>Maritime Technology</label><attribute name="id">8.6.0.0</attribute></item> 
+	<item><label>Industrial Biotechnology</label><attribute name="id">8.7.0.0</attribute></item> 
+	<item><label>Others in Technology</label><attribute name="id">8.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Architecture, Building and Planning</label><attribute name="id">9.0.0.0</attribute><list> 
+	<item><label>Architecture</label><attribute name="id">9.1.0.0</attribute></item> 
+	<item><label>Building</label><attribute name="id">9.2.0.0</attribute></item> 
+	<item><label>Landscape Design</label><attribute name="id">9.3.0.0</attribute></item> 
+	<item><label>Planning (Urban, Rural and Regional)</label><attribute name="id">9.4.0.0</attribute></item> 
+	<item><label>Others in Architecture, Building and Planning</label><attribute name="id">9.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Social Studies</label><attribute name="id">10.0.0.0</attribute><list> 
+	<item><label>Economics</label><attribute name="id">10.1.0.0</attribute></item> 
+	<item><label>Politics</label><attribute name="id">10.2.0.0</attribute></item> 
+	<item><label>Sociology</label><attribute name="id">10.3.0.0</attribute></item> 
+	<item><label>Social Policy</label><attribute name="id">10.4.0.0</attribute></item> 
+	<item><label>Social Work</label><attribute name="id">10.5.0.0</attribute></item> 
+	<item><label>Anthropology</label><attribute name="id">10.6.0.0</attribute></item> 
+	<item><label>Human and Social Geography</label><attribute name="id">10.7.0.0</attribute></item> 
+	<item><label>Other in Social Studies</label><attribute name="id">10.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Law</label><attribute name="id">11.0.0.0</attribute><list> 
+	<item><label>Law by area</label><attribute name="id">11.1.0.0</attribute></item> 
+	<item><label>Law by Topic</label><attribute name="id">11.2.0.0</attribute></item> 
+	<item><label>Other in Law</label><attribute name="id">11.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Business and Administrative Studies</label><attribute name="id">12.0.0.0</attribute><list> 
+	<item><label>Business Studies</label><attribute name="id">12.1.0.0</attribute></item> 
+	<item><label>Management Studies</label><attribute name="id">12.2.0.0</attribute></item> 
+	<item><label>Finance</label><attribute name="id">12.3.0.0</attribute></item> 
+	<item><label>Accounting</label><attribute name="id">12.4.0.0</attribute></item> 
+	<item><label>Marketing</label><attribute name="id">12.5.0.0</attribute></item> 
+	<item><label>Human Resource Management</label><attribute name="id">12.6.0.0</attribute></item> 
+	<item><label>Office Skills</label><attribute name="id">12.7.0.0</attribute></item> 
+	<item><label>Tourism, Transport and Travel</label><attribute name="id">12.8.0.0</attribute></item> 
+	<item><label>Other in Business and Administrative Studies</label><attribute name="id">12.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Mass Communications and Documentation</label><attribute name="id">13.0.0.0</attribute><list> 
+	<item><label>Information Services</label><attribute name="id">13.1.0.0</attribute></item> 
+	<item><label>Publicity Studies</label><attribute name="id">13.2.0.0</attribute></item> 
+	<item><label>Media Studies</label><attribute name="id">13.3.0.0</attribute></item> 
+	<item><label>Publishing</label><attribute name="id">13.4.0.0</attribute></item> 
+	<item><label>Journalism</label><attribute name="id">13.5.0.0</attribute></item> 
+	<item><label>Other in Mass Communications and Documentation</label><attribute name="id">13.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Linguistics, Classics and related subjects</label><attribute name="id">14.0.0.0</attribute><list> 
+	<item><label>Linguistics</label><attribute name="id">14.1.0.0</attribute></item> 
+	<item><label>Comparative Literary Studies</label><attribute name="id">14.2.0.0</attribute></item> 
+	<item><label>English Studies</label><attribute name="id">14.3.0.0</attribute></item> 
+	<item><label>Ancient Language Studies</label><attribute name="id">14.4.0.0</attribute></item> 
+	<item><label>Celtic Studies</label><attribute name="id">14.5.0.0</attribute></item> 
+	<item><label>Latin Studies</label><attribute name="id">14.6.0.0</attribute></item> 
+	<item><label>Classical Greek Studies</label><attribute name="id">14.7.0.0</attribute></item> 
+	<item><label>Classical Studies</label><attribute name="id">14.8.0.0</attribute></item> 
+	<item><label>Other Linguistics, Classics and related subjects</label><attribute name="id">14.9.0.0</attribute></item> 
+</list></item> 
+<item><label>European Language, Literature and related subjects</label><attribute name="id">15.0.0.0</attribute><list> 
+	<item><label>French Studies</label><attribute name="id">15.1.0.0</attribute></item> 
+	<item><label>German Studies</label><attribute name="id">15.2.0.0</attribute></item> 
+	<item><label>Italian Studies</label><attribute name="id">15.3.0.0</attribute></item> 
+	<item><label>Spanish Studies</label><attribute name="id">15.4.0.0</attribute></item> 
+	<item><label>Portuguese Studies</label><attribute name="id">15.5.0.0</attribute></item> 
+	<item><label>Scandinavian Studies</label><attribute name="id">15.6.0.0</attribute></item> 
+	<item><label>Russian and East European Studies</label><attribute name="id">15.7.0.0</attribute></item> 
+	<item><label>Other European Language, Literature and related subject</label><attribute name="id">15.9.0.0</attribute></item> 
+</list></item> 
+<item><label>East, Asiatic, African, American and Australian Languages, Literature</label><attribute name="id">16.0.0.0</attribute><list> 
+	<item><label>Chinese Studies</label><attribute name="id">16.1.0.0</attribute></item> 
+	<item><label>Japanese Studies</label><attribute name="id">16.2.0.0</attribute></item> 
+	<item><label>South Asian Studies</label><attribute name="id">16.3.0.0</attribute></item> 
+	<item><label>Other Asian Studies</label><attribute name="id">16.4.0.0</attribute></item> 
+	<item><label>African Studies</label><attribute name="id">16.5.0.0</attribute></item> 
+	<item><label>Modern Middle Eastern Studies</label><attribute name="id">16.6.0.0</attribute></item> 
+	<item><label>American Studies</label><attribute name="id">16.7.0.0</attribute></item> 
+	<item><label>Australian Studies</label><attribute name="id">16.8.0.0</attribute></item> 
+	<item><label>Other East, Asiatic, African, American and Australian Languages</label><attribute name="id">16.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Historical and Philosophical Studies</label><attribute name="id">17.0.0.0</attribute><list> 
+	<item><label>History by period</label><attribute name="id">17.1.0.0</attribute></item> 
+	<item><label>History by area</label><attribute name="id">17.2.0.0</attribute></item> 
+	<item><label>History by topic</label><attribute name="id">17.3.0.0</attribute></item> 
+	<item><label>Archaeology</label><attribute name="id">17.4.0.0</attribute></item> 
+	<item><label>Philosophy</label><attribute name="id">17.5.0.0</attribute></item> 
+	<item><label>Theology and Religious Studies</label><attribute name="id">17.6.0.0</attribute></item> 
+	<item><label>Other in Historical and Philosophical Studies</label><attribute name="id">17.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Creative Arts and Design</label><attribute name="id">18.0.0.0</attribute><list> 
+	<item><label>Fine Art</label><attribute name="id">18.1.0.0</attribute></item> 
+	<item><label>Design Studies</label><attribute name="id">18.2.0.0</attribute></item> 
+	<item><label>Music</label><attribute name="id">18.3.0.0</attribute></item> 
+	<item><label>Drama</label><attribute name="id">18.4.0.0</attribute></item> 
+	<item><label>Dance</label><attribute name="id">18.5.0.0</attribute></item> 
+	<item><label>Cinematics and Photography</label><attribute name="id">18.6.0.0</attribute></item> 
+	<item><label>Crafts</label><attribute name="id">18.7.0.0</attribute></item> 
+	<item><label>Imaginative Writing</label><attribute name="id">18.8.0.0</attribute></item> 
+	<item><label>Other in Creative Arts and Design</label><attribute name="id">18.9.0.0</attribute></item> 
+</list></item> 
+<item><label>Education</label><attribute name="id">19.0.0.0</attribute><list> 
+	<item><label>Training teach</label><attribute name="id">19.1.0.0</attribute></item> 
+	<item><label>Research and Study Skills in Education</label><attribute name="id">19.2.0.0</attribute></item> 
+	<item><label>Academic Studies in Education</label><attribute name="id">19.3.0.0</attribute></item> 
+	<item><label>Others in Education</label><attribute name="id">19.9.0.0</attribute></item> 
+</list></item> 
+</list>

@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+		body{ margin:0px;}
+
+html,body{ margin:0px;padding:0;
+		height:100%; /* 100 % height */
+		}
+		#outer-column-container, #inner-column-container { border-right-width: 0; }
+		#outer-column-container { border-left-width: 0; }
+		#right-column {	display: none; }
+		#left-column {	display: none; }
+		#source-order-container { margin: 0; }
+		#page-container {	min-width: 560px; margin: 0px;}
+		html>body #page-container {height:99%;} /* 100 % height */
+	#masthead {
+	width:100%;
+	height:4em;
+	padding-top:0px;
+	margin-top:-1px;
+}
+		html>body #masthead {
+	position:fixed;
+	z-index:10; /* Prevent certain problems with form controls */
+}
+html>body #outer-column-container {height:99%;width:100%;} /* 100 % height */
+html>body #inner-column-container {padding:4em 0;width:100%;} /* 6em = height of #header and #footer + 1em, 1em = give the content some breathing space */
+#footer {
+	width:100%;
+	height:3em;
+}
+html>body #footer {
+	position:fixed;
+	bottom:0;
+	z-index:10; /* Prevent certain problems with form controls */
+}
+

@@ -1,0 +1,9 @@
+/**
+	@package uk.ac.bbk.dcs.l4all.beans
+	@brief Package containing the various Java Beans used in the server
+
+	
+ 
+
+**/
+ 

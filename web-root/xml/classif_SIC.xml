@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<list id="0">
+	<item><label>Unknow</label><attribute name="id">0.0.0.0</attribute></item>
+	<item><label>Agriculture, Forestry and Fishing</label><attribute name="id">A.0.0.0</attribute></item>
+	<item><label>Mining and quarrying</label><attribute name="id">B.0.0.0</attribute></item>
+	<item><label>Manufacturing</label><attribute name="id">C.0.0.0</attribute></item>
+	<item><label>Electricity, gas, steam and air conditioning supply</label><attribute name="id">D.0.0.0</attribute></item>
+	<item><label>Water supply, sewerage, waste management and remediation activities</label><attribute name="id">E.0.0.0</attribute></item>
+	<item><label>Construction</label><attribute name="id">F.0.0.0</attribute></item>
+	<item><label>Wholesale and retail trade; repair of motor vehicles and motorcycles</label><attribute name="id">G.0.0.0</attribute></item>
+	<item><label>Accommodation and food service activities</label><attribute name="id">I.0.0.0</attribute></item>
+	<item><label>Transportation and storage</label><attribute name="id">H.0.0.0</attribute></item>
+	<item><label>Information and communication</label><attribute name="id">J.0.0.0</attribute></item>
+	<item><label>Financial and insurance activities</label><attribute name="id">K.0.0.0</attribute></item>
+	<item><label>Real estate activities</label><attribute name="id">L.0.0.0</attribute></item>
+	<item><label>Professional, scientific and technical activities</label><attribute name="id">M.0.0.0</attribute></item>
+	<item><label>Administrative and support service activities</label><attribute name="id">N.0.0.0</attribute></item>
+	<item><label>Public administration and defence; compulsory social security</label><attribute name="id">O.0.0.0</attribute></item>
+	<item><label>Education</label><attribute name="id">P.0.0.0</attribute></item>
+	<item><label>Human health and social work activities</label><attribute name="id">Q.0.0.0</attribute></item>
+	<item><label>Arts, entertainment and recreation</label><attribute name="id">R.0.0.0</attribute></item>
+	<item><label>Other service activities</label><attribute name="id">S.0.0.0</attribute></item>
+	<item><label>Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use</label><attribute name="id">T.0.0.0</attribute></item>
+	<item><label>Activities of extraterritorial organizations and bodies</label><attribute name="id">U.0.0.0</attribute></item>
+
+</list>

@@ -1,0 +1,593 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<list id="0">
+
+<item><label>Unknown</label><attribute name="id">0.0.0.0</attribute></item>
+
+<item><label>Managers and Senior Officials</label><attribute name="id">1.0.0.0</attribute><list>
+	<item><label>Corporate Managers</label><attribute name="id">1.1.0.0</attribute><list>
+		<item><label>Corporate Managers and Senior Officials</label><attribute name="id">1.1.1.0</attribute><list>
+			<item><label>Senior Officials in National Government</label><attribute name="id">1.1.1.1</attribute></item>
+			<item><label>Directors and Chief Executives of Major Organisations</label><attribute name="id">1.1.1.2</attribute></item>
+			<item><label>Senior Officials in Local Government</label><attribute name="id">1.1.1.3</attribute></item>
+			<item><label>Senior Officials of Special Interest Organisations</label><attribute name="id">1.1.1.4</attribute></item>
+	 	</list></item>	
+		<item><label>Production Managers</label><attribute name="id">1.1.2.0</attribute><list>
+			<item><label>Production, Works and Maintenance Managers</label><attribute name="id">1.1.2.1</attribute></item>
+			<item><label>Managers in Construction</label><attribute name="id">1.1.2.2</attribute></item>
+			<item><label>Managers in Mining and Energy</label><attribute name="id">1.1.2.3</attribute></item>
+	 	</list></item>
+		<item><label>Functional Managers</label><attribute name="id">1.1.3.0</attribute><list>
+			<item><label>Financial Managers and Chartered Secretaries</label><attribute name="id">1.1.3.1</attribute></item>
+			<item><label>Marketing and Sales Managers</label><attribute name="id">1.1.3.2</attribute></item>
+			<item><label>Purchasing Managers</label><attribute name="id">1.1.3.3</attribute></item>Xxx
+			<item><label>Advertising and Public Relations Managers</label><attribute name="id">1.1.3.4</attribute></item>Xxx
+			<item><label>Personnel, Training and Industrial Relations Managers</label><attribute name="id">1.1.3.5</attribute></item>
+			<item><label>Information and Communication Technology Managers</label><attribute name="id">1.1.3.6</attribute></item>
+			<item><label>Research and Development Managers</label><attribute name="id">1.1.3.7</attribute></item>
+	 	</list></item>
+		<item><label>Quality and Customer Care Managers</label><attribute name="id">1.1.4.0</attribute><list>
+			<item><label>Quality Assurance Managers</label><attribute name="id">1.1.4.1</attribute></item>
+			<item><label>Customer Care Managers</label><attribute name="id">1.1.4.2</attribute></item>
+	 	</list></item>
+		<item><label>Financial Institution and Office Managers</label><attribute name="id">1.1.5.0</attribute><list>
+			<item><label>Financial Institution Managers</label><attribute name="id">1.1.5.1</attribute></item>
+			<item><label>Office Managers</label><attribute name="id">1.1.5.2</attribute></item>
+	 	</list></item>
+		<item><label>Managers in Distribution, Storage and Retailing</label><attribute name="id">1.1.6.0</attribute><list>
+			<item><label>Transport and Distribution Managers</label><attribute name="id">1.1.6.1</attribute></item>
+			<item><label>Storage and Warehouse Managers</label><attribute name="id">1.1.6.2</attribute></item>
+			<item><label>Retail and Wholesale Managers </label><attribute name="id">1.1.6.3</attribute></item>
+ 	 	</list></item>
+		<item><label>Protective Service Officers</label><attribute name="id">1.1.7.0</attribute><list>
+			<item><label>Officers in Armed Forces</label><attribute name="id">1.1.7.1</attribute></item>
+			<item><label>Police Officers (Inspectors and Above)</label><attribute name="id">1.1.7.2</attribute></item>
+			<item><label>Senior Officers in Fire, Ambulance, Prison and Related Services</label><attribute name="id">1.1.7.3</attribute></item>
+			<item><label>Security Managers</label><attribute name="id">1.1.7.4</attribute></item>
+	 	</list></item>
+		<item><label>Health and Social Services Managers</label><attribute name="id">1.1.8.0</attribute><list>
+			<item><label>Hospital and Health Service Managers</label><attribute name="id">1.1.8.1</attribute></item>
+			<item><label>Pharmacy Managers</label><attribute name="id">1.1.8.2</attribute></item>
+			<item><label>Healthcare Practice Managers</label><attribute name="id">1.1.8.3</attribute></item>
+			<item><label>Social Services Managers</label><attribute name="id">1.1.8.4</attribute></item>
+			<item><label>Residential and Day Care Managers</label><attribute name="id">1.1.8.5</attribute></item>
+	 	</list></item>
+	</list></item>
+	<item><label>Managers and Proprietors in Agriculture and Services</label><attribute name="id">1.2.0.0</attribute><list>
+		<item><label>Managers in Farming, Horticulture, Forestry and Fishing</label><attribute name="id">1.2.1.0</attribute><list>
+			<item><label>Farm Managers</label><attribute name="id">1.2.1.1</attribute></item>
+			<item><label>Natural Environment and Conservation Managers</label><attribute name="id">1.2.1.2</attribute></item>
+			<item><label>Managers in Animal Husbandry, Forestry and Fishing N.E.C.</label><attribute name="id">1.2.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Managers and Proprietors in Hospitality and Leisure Services</label><attribute name="id">1.2.2.0</attribute><list>
+			<item><label>Hotel and Accommodation Managers</label><attribute name="id">1.2.2.1</attribute></item>
+			<item><label>Conference and Exhibition Managers</label><attribute name="id">1.2.2.2</attribute></item>
+			<item><label>Restaurant and Catering Managers</label><attribute name="id">1.2.2.3</attribute></item>
+			<item><label>Publicans and Managers of Licensed Premises</label><attribute name="id">1.2.2.4</attribute></item>
+			<item><label>Leisure and Sports Managers</label><attribute name="id">1.2.2.5</attribute></item>
+			<item><label>Travel Agency Managers</label><attribute name="id">1.2.2.6</attribute></item>
+	 	</list></item>
+		<item><label>Managers and Proprietors in Other Service Industries</label><attribute name="id">1.2.3.0</attribute><list>
+			<item><label>Property, Housing and Land Managers</label><attribute name="id">1.2.3.1</attribute></item>
+			<item><label>Garage Managers and Proprietors</label><attribute name="id">1.2.3.2</attribute></item>
+			<item><label>Hairdressing and Beauty Salon Managers and Proprietors</label><attribute name="id">1.2.3.3</attribute></item>
+			<item><label>Shopkeepers and Wholesale/Retail Dealers</label><attribute name="id">1.2.3.4</attribute></item>
+			<item><label>Recycling and Refuse Disposal Managers</label><attribute name="id">1.2.3.5</attribute></item>
+			<item><label>Managers and Proprietors in Other Services N.E.C.</label><attribute name="id">1.2.3.9</attribute></item>
+	 	</list></item>
+	</list></item>
+</list></item>
+<item><label>Professional Occupations</label><attribute name="id">2.0.0.0</attribute><list>
+	<item><label>Science and Technology Professionals</label><attribute name="id">2.1.0.0</attribute><list>
+		<item><label>Science Professionals</label><attribute name="id">2.1.1.0</attribute><list>
+			<item><label>Chemists</label><attribute name="id">2.1.1.1</attribute></item>
+			<item><label>Biological Scientists and Biochemists</label><attribute name="id">2.1.1.2</attribute></item>
+			<item><label>Physicists, Geologists and Meteorologists</label><attribute name="id">2.1.1.3</attribute></item>
+	 	</list></item>
+		<item><label>Engineering Professionals</label><attribute name="id">2.1.2.0</attribute><list>
+			<item><label>Civil Engineers</label><attribute name="id">2.1.2.1</attribute></item>
+			<item><label>Mechanical Engineers</label><attribute name="id">2.1.2.2</attribute></item>
+			<item><label>Electrical Engineers</label><attribute name="id">2.1.2.3</attribute></item>
+			<item><label>Electronics Engineers</label><attribute name="id">2.1.2.4</attribute></item>
+			<item><label>Chemical Engineers</label><attribute name="id">2.1.2.5</attribute></item>
+			<item><label>Design and Development Engineers</label><attribute name="id">2.1.2.6</attribute></item>
+			<item><label>Production and Process Engineers</label><attribute name="id">2.1.2.7</attribute></item>
+			<item><label>Planning and Quality Control Engineers</label><attribute name="id">2.1.2.8</attribute></item>
+			<item><label>Engineering Professionals N.E.C.</label><attribute name="id">2.1.2.9</attribute></item>
+	 	</list></item>
+		<item><label>Information and Communication Technology Professionals</label><attribute name="id">2.1.3.0</attribute><list>
+			<item><label>It Strategy and Planning Professionals</label><attribute name="id">2.1.3.1</attribute></item>
+			<item><label>Software Professionals</label><attribute name="id">2.1.3.2</attribute></item>
+	 	</list></item>
+ 	</list></item>
+	<item><label>Health Professionals</label><attribute name="id">2.2.0.0</attribute><list>
+		<item><label>Health Professionals</label><attribute name="id">2.2.1.0</attribute><list>
+			<item><label>Medical Practitioners</label><attribute name="id">2.2.1.1</attribute></item>
+			<item><label>Psychologists</label><attribute name="id">2.2.1.2</attribute></item>
+			<item><label>Pharmacists/Pharmacologists</label><attribute name="id">2.2.1.3</attribute></item>
+			<item><label>Ophthalmic Opticians</label><attribute name="id">2.2.1.4</attribute></item>
+			<item><label>Dental Practitioners</label><attribute name="id">2.2.1.5</attribute></item>
+			<item><label>Veterinarians</label><attribute name="id">2.2.1.6</attribute></item>
+	 	</list></item>
+ 	</list></item>
+	<item><label>Teaching and Research Professionals</label><attribute name="id">2.3.0.0</attribute><list>
+		<item><label>Teaching Professionals</label><attribute name="id">2.3.1.0</attribute><list>
+			<item><label>Higher Education Teaching Professionals</label><attribute name="id">2.3.1.1</attribute></item>
+			<item><label>Further Education Teaching Professionals</label><attribute name="id">2.3.1.2</attribute></item>
+			<item><label>Education Officers, School Inspectors</label><attribute name="id">2.3.1.3</attribute></item>
+			<item><label>Secondary Education Teaching Professionals</label><attribute name="id">2.3.1.4</attribute></item>
+			<item><label>Primary and Nursery Education Teaching Professionals</label><attribute name="id">2.3.1.5</attribute></item>
+			<item><label>Special Needs Education Teaching Professionals</label><attribute name="id">2.3.1.6</attribute></item>
+			<item><label>Registrars and Senior Administrators of Educational Establishments</label><attribute name="id">2.3.1.7</attribute></item>
+			<item><label>Teaching Professionals N.E.C.</label><attribute name="id">2.3.1.9</attribute></item>
+ 	 	</list></item>
+		<item><label>Research Professionals</label><attribute name="id">2.3.2.0</attribute><list>
+			<item><label>Scientific Researchers</label><attribute name="id">2.3.2.1</attribute></item>
+			<item><label>Social Science Researchers</label><attribute name="id">2.3.2.2</attribute></item>
+			<item><label>Researchers N.E.C.</label><attribute name="id">2.3.2.9</attribute></item>
+	 	</list></item>
+ 	</list></item>
+	<item><label>Business and Public Service Professionals</label><attribute name="id">2.4.0.0</attribute><list>
+		<item><label>Legal Professionals</label><attribute name="id">2.4.1.0</attribute><list>
+			<item><label>Solicitors and Lawyers, Judges and Coroners</label><attribute name="id">2.4.1.1</attribute></item>
+			<item><label>Legal Professionals N.E.C.</label><attribute name="id">2.4.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Business and Statistical Professionals</label><attribute name="id">2.4.2.0</attribute><list>
+			<item><label>Chartered and Certified Accountants</label><attribute name="id">2.4.2.1</attribute></item>
+			<item><label>Management Accountants</label><attribute name="id">2.4.2.2</attribute></item>
+			<item><label>Management Consultants, Actuaries, Economists and Statisticians</label><attribute name="id">2.4.2.3</attribute></item>
+	 	</list></item>
+		<item><label>Architects, Town Planners, Surveyors</label><attribute name="id">2.4.3.0</attribute><list>
+			<item><label>Architects</label><attribute name="id">2.4.3.1</attribute></item>
+			<item><label>Town Planners</label><attribute name="id">2.4.3.2</attribute></item>
+			<item><label>Quantity Surveyors</label><attribute name="id">2.4.3.3</attribute></item>
+			<item><label>Chartered Surveyors (Not Quantity Surveyors)</label><attribute name="id">2.4.3.4</attribute></item>
+	 	</list></item>
+		<item><label>Public Service Professionals</label><attribute name="id">2.4.4.0</attribute><list>
+			<item><label>Public Service Administrative Professionals</label><attribute name="id">2.4.4.1</attribute></item>
+			<item><label>Social Workers</label><attribute name="id">2.4.4.2</attribute></item>
+			<item><label>Probation Officers</label><attribute name="id">2.4.4.3</attribute></item>
+			<item><label>Clergy</label><attribute name="id">2.4.4.4</attribute></item>
+	 	</list></item>
+		<item><label>Librarians and Related Professionals</label><attribute name="id">2.4.5.0</attribute><list>
+			<item><label>Librarians</label><attribute name="id">2.4.5.1</attribute></item>
+			<item><label>Archivists and Curators</label><attribute name="id">2.4.5.2</attribute></item>
+	 	</list></item>
+	</list></item>
+</list></item>
+<item><label>Associate Professional and Technical Occupations</label><attribute name="id">3.0.0.0</attribute><list>
+	<item><label>Science and Technology Associate Professionals</label><attribute name="id">3.1.0.0</attribute><list>
+		<item><label>Science and Engineering Technicians</label><attribute name="id">3.1.1.0</attribute><list>
+			<item><label>Laboratory Technicians</label><attribute name="id">3.1.1.1</attribute></item>
+			<item><label>Electrical/Electronics Technicians</label><attribute name="id">3.1.1.2</attribute></item>
+			<item><label>Engineering Technicians</label><attribute name="id">3.1.1.3</attribute></item>
+			<item><label>Building and Civil Engineering Technicians</label><attribute name="id">3.1.1.4</attribute></item>
+			<item><label>Quality Assurance Technicians</label><attribute name="id">3.1.1.5</attribute></item>
+			<item><label>Science and Engineering Technicians N.E.C.</label><attribute name="id">3.1.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Draughtspersons and Building Inspectors</label><attribute name="id">3.1.2.0</attribute><list>
+			<item><label>Architectural Technologists and Town Planning Technicians</label><attribute name="id">3.1.2.1</attribute></item>
+			<item><label>Draughtspersons</label><attribute name="id">3.1.2.2</attribute></item>
+			<item><label>Building Inspectors</label><attribute name="id">3.1.2.3</attribute></item>
+	 	</list></item>
+		<item><label>It Service Delivery Occupations</label><attribute name="id">3.1.3.0</attribute><list>
+			<item><label>It Operations Technicians</label><attribute name="id">3.1.3.1</attribute></item>
+			<item><label>It User Support Technicians</label><attribute name="id">3.1.3.2</attribute></item>
+	 	</list></item>
+	</list></item>
+	<item><label>Health and Social Welfare Associate Professionals</label><attribute name="id">3.2.0.0</attribute><list>
+		<item><label>Health Associate Professionals</label><attribute name="id">3.2.1.0</attribute><list>
+			<item><label>Nurses</label><attribute name="id">3.2.1.1</attribute></item>
+			<item><label>Midwives</label><attribute name="id">3.2.1.2</attribute></item>
+			<item><label>Paramedics</label><attribute name="id">3.2.1.3</attribute></item>
+			<item><label>Medical Radiographers</label><attribute name="id">3.2.1.4</attribute></item>
+			<item><label>Chiropodists</label><attribute name="id">3.2.1.5</attribute></item>
+			<item><label>Dispensing Opticians</label><attribute name="id">3.2.1.6</attribute></item>
+			<item><label>Pharmaceutical Dispensers</label><attribute name="id">3.2.1.7</attribute></item>
+			<item><label>Medical and Dental Technicians</label><attribute name="id">3.2.1.8</attribute></item>
+	 	</list></item>
+		<item><label>Therapists</label><attribute name="id">3.2.2.0</attribute><list>
+			<item><label>Physiotherapists</label><attribute name="id">3.2.2.1</attribute></item>
+			<item><label>Occupational Therapists</label><attribute name="id">3.2.2.2</attribute></item>
+			<item><label>Speech and Language Therapists</label><attribute name="id">3.2.2.3</attribute></item>
+			<item><label>Therapists N.E.C.</label><attribute name="id">3.2.2.9</attribute></item>
+	 	</list></item>
+		<item><label>Social Welfare Associate Professionals</label><attribute name="id">3.2.3.0</attribute><list>
+			<item><label>Youth and Community Workers</label><attribute name="id">3.2.3.1</attribute></item>
+			<item><label>Housing and Welfare Officers</label><attribute name="id">3.2.3.2</attribute></item>
+	 	</list></item>
+	</list></item>
+	<item><label>Protective Service Occupations</label><attribute name="id">3.3.0.0</attribute><list>
+		<item><label>Protective Service Occupations</label><attribute name="id">3.3.1.0</attribute><list>
+			<item><label>Ncos and Other Ranks</label><attribute name="id">3.3.1.1</attribute></item>
+			<item><label>Police Officers (Sergeant and Below)</label><attribute name="id">3.3.1.2</attribute></item>
+			<item><label>Fire Service Officers (Leading Fire Officer and Below)</label><attribute name="id">3.3.1.3</attribute></item>
+			<item><label>Prison Service Officers (Below Principal Officer)</label><attribute name="id">3.3.1.4</attribute></item>
+			<item><label>Protective Service Associate Professionals N.E.C.</label><attribute name="id">3.3.1.9</attribute></item>
+	 	</list></item>
+ 	</list></item>
+	<item><label>Culture, Media and Sports Occupations</label><attribute name="id">3.4.0.0</attribute><list>
+		<item><label>Artistic and Literary Occupations</label><attribute name="id">3.4.1.0</attribute><list>
+			<item><label>Artists</label><attribute name="id">3.4.1.1</attribute></item>
+			<item><label>Authors, Writers</label><attribute name="id">3.4.1.2</attribute></item>
+			<item><label>Actors, Entertainers</label><attribute name="id">3.4.1.3</attribute></item>
+			<item><label>Dancers and Choreographers</label><attribute name="id">3.4.1.4</attribute></item>
+			<item><label>Musicians</label><attribute name="id">3.4.1.5</attribute></item>
+			<item><label>Arts Officers, Producers and Directors</label><attribute name="id">3.4.1.6</attribute></item>
+	 	</list></item>
+		<item><label>Design Associate Professionals</label><attribute name="id">3.4.2.0</attribute><list>
+			<item><label>Graphic Designers</label><attribute name="id">3.4.2.1</attribute></item>
+			<item><label>Product, Clothing and Related Designers</label><attribute name="id">3.4.2.2</attribute></item>
+	 	</list></item>
+		<item><label>Media Associate Professionals</label><attribute name="id">3.4.3.0</attribute><list>
+			<item><label>Journalists, Newspaper and Periodical Editors</label><attribute name="id">3.4.3.1</attribute></item>
+			<item><label>Broadcasting Associate Professionals</label><attribute name="id">3.4.3.2</attribute></item>
+			<item><label>Public Relations Officers</label><attribute name="id">3.4.3.3</attribute></item>
+			<item><label>Photographers and Audio-Visual Equipment Operators</label><attribute name="id">3.4.3.4</attribute></item>
+	 	</list></item>
+		<item><label>Sports and Fitness Occupations</label><attribute name="id">3.4.4.0</attribute><list>
+			<item><label>Sports Players</label><attribute name="id">3.4.4.1</attribute></item>
+			<item><label>Sports Coaches, Instructors and Officials</label><attribute name="id">3.4.4.2</attribute></item>
+			<item><label>Fitness Instructors</label><attribute name="id">3.4.4.3</attribute></item>
+			<item><label>Sports and Fitness Occupations N.E.C.</label><attribute name="id">3.4.4.9</attribute></item>
+	 	</list></item>
+ 	</list></item>
+	<item><label>Business and Public Service Associate Professionals</label><attribute name="id">3.5.0.0</attribute><list>
+		<item><label>Transport Associate Professionals</label><attribute name="id">3.5.1.0</attribute><list>
+			<item><label>Air Traffic Controllers</label><attribute name="id">3.5.1.1</attribute></item>
+			<item><label>Aircraft Pilots and Flight Engineers</label><attribute name="id">3.5.1.2</attribute></item>
+			<item><label>Ship and Hovercraft Officers</label><attribute name="id">3.5.1.3</attribute></item>
+			<item><label>Train Drivers</label><attribute name="id">3.5.1.4</attribute></item>
+	 	</list></item>
+		<item><label>Legal Associate Professionals</label><attribute name="id">3.5.2.0</attribute><list>
+			<item><label>Legal Associate Professionals</label><attribute name="id">3.5.2.0</attribute></item>
+	 	</list></item>
+		<item><label>Business and Finance Associate Professionals</label><attribute name="id">3.5.3.0</attribute><list>
+			<item><label>Estimators, Valuers and Assessors</label><attribute name="id">3.5.3.1</attribute></item>
+			<item><label>Brokers</label><attribute name="id">3.5.3.2</attribute></item>
+			<item><label>Insurance Underwriters</label><attribute name="id">3.5.3.3</attribute></item>
+			<item><label>Finance and Investment Analysts/Advisers</label><attribute name="id">3.5.3.4</attribute></item>
+			<item><label>Taxation Experts</label><attribute name="id">3.5.3.5</attribute></item>
+			<item><label>Importers, Exporters</label><attribute name="id">3.5.3.6</attribute></item>
+			<item><label>Financial and Accounting Technicians</label><attribute name="id">3.5.3.7</attribute></item>
+			<item><label>Business and Related Associate Professionals N.E.C.</label><attribute name="id">3.5.3.9</attribute></item>
+	 	</list></item>
+		<item><label>Sales and Related Associate Professionals</label><attribute name="id">3.5.4.0</attribute><list>
+			<item><label>Buyers and Purchasing Officers</label><attribute name="id">3.5.4.1</attribute></item>
+			<item><label>Sales Representatives</label><attribute name="id">3.5.4.2</attribute></item>
+			<item><label>Marketing Associate Professionals</label><attribute name="id">3.5.4.3</attribute></item>
+			<item><label>Estate Agents, Auctioneers</label><attribute name="id">3.5.4.4</attribute></item>
+	 	</list></item>
+		<item><label>Conservation Associate Professionals</label><attribute name="id">3.5.5.0</attribute><list>
+			<item><label>Conservation and Environmental Protection Officers</label><attribute name="id">3.5.5.1</attribute></item>
+			<item><label>Countryside and Park Rangers</label><attribute name="id">3.5.5.2</attribute></item>
+	 	</list></item>
+		<item><label>Public Service and Other Associate Professionals</label><attribute name="id">3.5.6.0</attribute><list>
+			<item><label>Public Service Associate Professionals</label><attribute name="id">3.5.6.1</attribute></item>
+			<item><label>Personnel and Industrial Relations Officers</label><attribute name="id">3.5.6.2</attribute></item>
+			<item><label>Vocational and Industrial Trainers and Instructors</label><attribute name="id">3.5.6.3</attribute></item>
+			<item><label>Careers Advisers and Vocational Guidance Specialists</label><attribute name="id">3.5.6.4</attribute></item>
+			<item><label>Inspectors of Factories, Utilities and Trading Standards</label><attribute name="id">3.5.6.5</attribute></item>
+			<item><label>Statutory Examiners</label><attribute name="id">3.5.6.6</attribute></item>
+			<item><label>Occupational Hygienists and Safety Officers (Health and Safety)</label><attribute name="id">3.5.6.7</attribute></item>
+			<item><label>Environmental Health Officers</label><attribute name="id">3.5.6.8</attribute></item>
+	 	</list></item>
+
+	</list></item>
+</list></item>
+<item><label>Administrative and Secretarial Occupations</label><attribute name="id">4.0.0.0</attribute><list>
+	<item><label>Administrative Occupations</label><attribute name="id">4.1.0.0</attribute><list>
+		<item><label>Administrative Occupations: Government and Related Organisations</label><attribute name="id">4.1.1.0</attribute><list>
+			<item><label>Civil Service Executive Officers</label><attribute name="id">4.1.1.1</attribute></item>
+			<item><label>Civil Service Administrative Officers and Assistants</label><attribute name="id">4.1.1.2</attribute></item>
+			<item><label>Local Government Clerical Officers and Assistants</label><attribute name="id">4.1.1.3</attribute></item>
+			<item><label>Officers of Non-Governmental Organisations</label><attribute name="id">4.1.1.4</attribute></item>
+	 	</list></item>
+		<item><label>Administrative Occupations: Finance</label><attribute name="id">4.1.2.0</attribute><list>
+			<item><label>Credit Controllers</label><attribute name="id">4.1.2.1</attribute></item>
+			<item><label>Accounts and Wages Clerks, Book-Keepers, Other Financial Clerks</label><attribute name="id">4.1.2.2</attribute></item>
+			<item><label>Counter Clerks</label><attribute name="id">4.1.2.3</attribute></item>
+	 	</list></item>
+		<item><label>Administrative Occupations: Records</label><attribute name="id">4.1.3.0</attribute><list>
+			<item><label>Filing and Other Records Assistants/Clerks</label><attribute name="id">4.1.3.1</attribute></item>
+			<item><label>Pensions and Insurance Clerks</label><attribute name="id">4.1.3.2</attribute></item>
+			<item><label>Stock Control Clerks</label><attribute name="id">4.1.3.3</attribute></item>
+			<item><label>Transport and Distribution Clerks</label><attribute name="id">4.1.3.4</attribute></item>
+			<item><label>Library Assistants/Clerks</label><attribute name="id">4.1.3.5</attribute></item>
+			<item><label>Database Assistants/Clerks</label><attribute name="id">4.1.3.6</attribute></item>
+			<item><label>Market Research Interviewers</label><attribute name="id">4.1.3.7</attribute></item>
+	 	</list></item>
+		<item><label>Administrative Occupations: Communications</label><attribute name="id">4.1.4.0</attribute><list>
+			<item><label>Telephonists</label><attribute name="id">4.1.4.1</attribute></item>
+			<item><label>Communication Operators</label><attribute name="id">4.1.4.2</attribute></item>
+	 	</list></item>
+		<item><label>Administrative Occupations: General</label><attribute name="id">4.1.5.0</attribute><list>
+			<item><label>General Office Assistants/Clerks</label><attribute name="id">4.1.5.0</attribute></item>
+	 	</list></item>
+	</list></item>
+	<item><label>Secretarial and Related Occupations</label><attribute name="id">4.2.0.0</attribute><list>
+		<item><label>Secretarial and Related Occupations</label><attribute name="id">4.2.1.0</attribute><list>
+			<item><label>Medical Secretaries</label><attribute name="id">4.2.1.1</attribute></item>
+			<item><label>Legal Secretaries</label><attribute name="id">4.2.1.2</attribute></item>
+			<item><label>School Secretaries</label><attribute name="id">4.2.1.3</attribute></item>
+			<item><label>Company Secretaries</label><attribute name="id">4.2.1.4</attribute></item>
+			<item><label>Personal Assistants and Other Secretaries</label><attribute name="id">4.2.1.5</attribute></item>
+			<item><label>Receptionists</label><attribute name="id">4.2.1.6</attribute></item>
+			<item><label>Typists</label><attribute name="id">4.2.1.7</attribute></item>
+	 	</list></item>
+	</list></item>
+</list></item>
+<item><label>Skilled Trades Occupations</label><attribute name="id">5.0.0.0</attribute><list>
+	<item><label>Skilled Agricultural Trades</label><attribute name="id">5.1.0.0</attribute><list>
+		<item><label>Agricultural Trades</label><attribute name="id">5.1.1.0</attribute><list>
+			<item><label>Farmers</label><attribute name="id">5.1.1.1</attribute></item>
+			<item><label>Horticultural Trades</label><attribute name="id">5.1.1.2</attribute></item>
+			<item><label>Gardeners and Groundsmen/Groundswomen</label><attribute name="id">5.1.1.3</attribute></item>
+			<item><label>Agricultural and Fishing Trades N.E.C.</label><attribute name="id">5.1.1.9</attribute></item>
+		</list></item>
+	</list></item>
+	<item><label>Skilled Metal and Electrical Trades</label><attribute name="id">5.2.0.0</attribute><list>
+		<item><label>Metal Forming, Welding and Related Trades</label><attribute name="id">5.2.1.0</attribute><list>
+			<item><label>Smiths and Forge Workers</label><attribute name="id">5.2.1.1</attribute></item>
+			<item><label>Moulders, Core Makers, Die Casters</label><attribute name="id">5.2.1.2</attribute></item>
+			<item><label>Sheet Metal Workers</label><attribute name="id">5.2.1.3</attribute></item>
+			<item><label>Metal Plate Workers, Shipwrights, Riveters</label><attribute name="id">5.2.1.4</attribute></item>
+			<item><label>Welding Trades</label><attribute name="id">5.2.1.5</attribute></item>
+			<item><label>Pipe Fitters</label><attribute name="id">5.2.1.6</attribute></item>
+	 	</list></item>
+		<item><label>Metal Machining, Fitting and Instrument Making Trades</label><attribute name="id">5.2.2.0</attribute><list>
+			<item><label>Metal Machining Setters and Setter-Operators</label><attribute name="id">5.2.2.1</attribute></item>
+			<item><label>Tool Makers, Tool Fitters and Markers-Out</label><attribute name="id">5.2.2.2</attribute></item>
+			<item><label>Metal Working Production and Maintenance Fitters</label><attribute name="id">5.2.2.3</attribute></item>
+			<item><label>Precision Instrument Makers and Repairers</label><attribute name="id">5.2.2.4</attribute></item>
+	 	</list></item>
+		<item><label>Vehicle Trades</label><attribute name="id">5.2.3.0</attribute><list>
+			<item><label>Motor Mechanics, Auto Engineers</label><attribute name="id">5.2.3.1</attribute></item>
+			<item><label>Vehicle Body Builders and Repairers</label><attribute name="id">5.2.3.2</attribute></item>
+			<item><label>Auto Electricians</label><attribute name="id">5.2.3.3</attribute></item>
+			<item><label>Vehicle Spray Painters</label><attribute name="id">5.2.3.4</attribute></item>
+	 	</list></item>
+		<item><label>Electrical Trades</label><attribute name="id">5.2.4.0</attribute><list>
+			<item><label>Electricians, Electrical Fitters</label><attribute name="id">5.2.4.1</attribute></item>
+			<item><label>Telecommunications Engineers</label><attribute name="id">5.2.4.2</attribute></item>
+			<item><label>Lines Repairers and Cable Jointers</label><attribute name="id">5.2.4.3</attribute></item>
+			<item><label>Tv, Video and Audio Engineers</label><attribute name="id">5.2.4.4</attribute></item>
+			<item><label>Computer Engineers, Installation and Maintenance</label><attribute name="id">5.2.4.5</attribute></item>
+			<item><label>Electrical/Electronics Engineers N.E.C.</label><attribute name="id">5.2.4.9</attribute></item>
+	 	</list></item>
+ 	</list></item>
+	<item><label>Skilled Construction and Building Trades</label><attribute name="id">5.3.0.0</attribute><list>
+		<item><label>Construction Trades</label><attribute name="id">5.3.1.0</attribute><list>
+			<item><label>Steel Erectors</label><attribute name="id">5.3.1.1</attribute></item>
+			<item><label>Bricklayers, Masons</label><attribute name="id">5.3.1.2</attribute></item>
+			<item><label>Roofers, Roof Tilers and Slaters</label><attribute name="id">5.3.1.3</attribute></item>
+			<item><label>Plumbers, Heating and Ventilating Engineers</label><attribute name="id">5.3.1.4</attribute></item>
+			<item><label>Carpenters and Joiners</label><attribute name="id">5.3.1.5</attribute></item>
+			<item><label>Glaziers, Window Fabricators and Fitters</label><attribute name="id">5.3.1.6</attribute></item>
+			<item><label>Construction Trades N.E.C.</label><attribute name="id">5.3.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Building Trades</label><attribute name="id">5.3.2.0</attribute><list>
+			<item><label>Plasterers</label><attribute name="id">5.3.2.1</attribute></item>
+			<item><label>Floorers and Wall Tilers</label><attribute name="id">5.3.2.2</attribute></item>
+			<item><label>Painters and Decorators</label><attribute name="id">5.3.2.3</attribute></item>
+	 	</list></item>
+ 	</list></item>
+	<item><label>Textiles, Printing and Other Skilled Trades</label><attribute name="id">5.4.0.0</attribute><list>
+		<item><label>Textiles and Garments Trades</label><attribute name="id">5.4.1.0</attribute><list>
+			<item><label>Weavers and Knitters</label><attribute name="id">5.4.1.1</attribute></item>
+			<item><label>Upholsterers</label><attribute name="id">5.4.1.2</attribute></item>
+			<item><label>Leather and Related Trades</label><attribute name="id">5.4.1.3</attribute></item>
+			<item><label>Tailors and Dressmakers</label><attribute name="id">5.4.1.4</attribute></item>
+			<item><label>Textiles, Garments and Related Trades N.E.C.</label><attribute name="id">5.4.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Printing Trades</label><attribute name="id">5.4.2.0</attribute><list>
+			<item><label>Originators, Compositors and Print Preparers</label><attribute name="id">5.4.2.1</attribute></item>
+			<item><label>Printers</label><attribute name="id">5.4.2.2</attribute></item>
+			<item><label>Bookbinders and Print Finishers</label><attribute name="id">5.4.2.3</attribute></item>
+			<item><label>Screen Printers</label><attribute name="id">5.4.2.4</attribute></item>
+	 	</list></item>
+		<item><label>Food Preparation Trades</label><attribute name="id">5.4.3.0</attribute><list>
+			<item><label>Butchers, Meat Cutters</label><attribute name="id">5.4.3.1</attribute></item>
+			<item><label>Bakers, Flour Confectioners</label><attribute name="id">5.4.3.2</attribute></item>
+			<item><label>Fishmongers, Poultry Dressers</label><attribute name="id">5.4.3.3</attribute></item>
+			<item><label>Chefs, Cooks</label><attribute name="id">5.4.3.4</attribute></item>
+	 	</list></item>
+		<item><label>Skilled Trades N. E. C.</label><attribute name="id">5.4.9.0</attribute><list>
+			<item><label>Glass and Ceramics Makers, Decorators and Finishers</label><attribute name="id">5.4.9.1</attribute></item>
+			<item><label>Furniture Makers, Other Craft Woodworkers</label><attribute name="id">5.4.9.2</attribute></item>
+			<item><label>Pattern Makers (Moulds)</label><attribute name="id">5.4.9.3</attribute></item>
+			<item><label>Musical Instrument Makers and Tuners</label><attribute name="id">5.4.9.4</attribute></item>
+			<item><label>Goldsmiths, Silversmiths, Precious Stone Workers</label><attribute name="id">5.4.9.5</attribute></item>
+			<item><label>Floral Arrangers, Florists</label><attribute name="id">5.4.9.6</attribute></item>
+			<item><label>Hand Craft Occupations N.E.C.</label><attribute name="id">5.4.9.9</attribute></item>
+	 	</list></item>
+ 	</list></item>
+</list></item>
+<item><label>Personal Service Occupations</label><attribute name="id">6.0.0.0</attribute><list>
+	<item><label>Caring Personal Service Occupations</label><attribute name="id">6.1.0.0</attribute><list>
+		<item><label>Healthcare and Related Personal Services</label><attribute name="id">6.1.1.0</attribute><list>
+			<item><label>Nursing Auxiliaries and Assistants</label><attribute name="id">6.1.1.1</attribute></item>
+			<item><label>Ambulance Staff (Excluding Paramedics)</label><attribute name="id">6.1.1.2</attribute></item>
+			<item><label>Dental Nurses</label><attribute name="id">6.1.1.3</attribute></item>
+			<item><label>Houseparents and Residential Wardens</label><attribute name="id">6.1.1.4</attribute></item>
+			<item><label>Care Assistants and Home Carers</label><attribute name="id">6.1.1.5</attribute></item>
+	 	</list></item>
+		<item><label>Childcare and Related Personal Services</label><attribute name="id">6.1.2.0</attribute><list>
+			<item><label>Nursery Nurses</label><attribute name="id">6.1.2.1</attribute></item>
+			<item><label>Childminders and Related Occupations</label><attribute name="id">6.1.2.2</attribute></item>
+			<item><label>Playgroup Leaders/Assistants</label><attribute name="id">6.1.2.3</attribute></item>
+			<item><label>Educational Assistants</label><attribute name="id">6.1.2.4</attribute></item>
+	 	</list></item>
+		<item><label>Animal Care Services</label><attribute name="id">6.1.3.0</attribute><list>
+			<item><label>Veterinary Nurses and Assistants</label><attribute name="id">6.1.3.1</attribute></item>
+			<item><label>Animal Care Occupations N.E.C.</label><attribute name="id">6.1.3.9</attribute></item>
+	 	</list></item>
+	</list></item>
+	<item><label>Leisure and Other Personal Service Occupations</label><attribute name="id">6.2.0.0</attribute><list>
+		<item><label>Leisure and Travel Service Occupations</label><attribute name="id">6.2.1.0</attribute><list>
+			<item><label>Sports and Leisure Assistants</label><attribute name="id">6.2.1.1</attribute></item>
+			<item><label>Travel Agents</label><attribute name="id">6.2.1.2</attribute></item>
+			<item><label>Travel and Tour Guides</label><attribute name="id">6.2.1.3</attribute></item>
+			<item><label>Air Travel Assistants</label><attribute name="id">6.2.1.4</attribute></item>
+			<item><label>Rail Travel Assistants</label><attribute name="id">6.2.1.5</attribute></item>
+			<item><label>Leisure and Travel Service Occupations N.E.C.</label><attribute name="id">6.2.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Hairdressers and Related Occupations</label><attribute name="id">6.2.2.0</attribute><list>
+			<item><label>Hairdressers, Barbers</label><attribute name="id">6.2.2.1</attribute></item>
+			<item><label>Beauticians and Related Occupations</label><attribute name="id">6.2.2.2</attribute></item>
+	 	</list></item>
+		<item><label>Housekeeping Occupations</label><attribute name="id">6.2.3.0</attribute><list>
+			<item><label>Housekeepers and Related Occupations</label><attribute name="id">6.2.3.1</attribute></item>
+			<item><label>Caretakers</label><attribute name="id">6.2.3.2</attribute></item>
+	 	</list></item>
+		<item><label>Personal Services Occupations N. E. C.</label><attribute name="id">6.2.9.0</attribute><list>
+			<item><label>Undertakers and Mortuary Assistants</label><attribute name="id">6.2.9.1</attribute></item>
+			<item><label>Pest Control Officers</label><attribute name="id">6.2.9.2</attribute></item>
+	 	</list></item>
+ 	</list></item>
+</list></item>
+<item><label>Sales and Customer Service 	Occupations</label><attribute name="id">7.0.0.0</attribute><list>
+	<item><label>Sales Occupations</label><attribute name="id">7.1.0.0</attribute><list>
+		<item><label>Sales Assistants and Retail Cashiers</label><attribute name="id">7.1.1.0</attribute><list>
+			<item><label>Sales and Retail Assistants</label><attribute name="id">7.1.1.1</attribute></item>
+			<item><label>Retail Cashiers and Check-Out Operators</label><attribute name="id">7.1.1.2</attribute></item>
+			<item><label>Telephone Salespersons</label><attribute name="id">7.1.1.3</attribute></item>
+	 	</list></item>
+		<item><label>Sales Related Occupations</label><attribute name="id">7.1.2.0</attribute><list>
+			<item><label>Collector Salespersons and Credit Agents</label><attribute name="id">7.1.2.1</attribute></item>
+			<item><label>Debt, Rent and Other Cash Collectors</label><attribute name="id">7.1.2.2</attribute></item>
+			<item><label>Roundsmen/Women and Van Salespersons</label><attribute name="id">7.1.2.3</attribute></item>
+			<item><label>Market and Street Traders and Assistants</label><attribute name="id">7.1.2.4</attribute></item>
+			<item><label>Merchandisers and Window Dressers</label><attribute name="id">7.1.2.5</attribute></item>
+			<item><label>Sales Related Occupations N.E.C.</label><attribute name="id">7.1.2.9</attribute></item>
+	 	</list></item>
+ 	</list></item>
+	<item><label>Customer Service Occupations</label><attribute name="id">7.2.0.0</attribute><list>
+		<item><label>Customer Service Occupations</label><attribute name="id">7.2.1.0</attribute><list>
+			<item><label>Call Centre Agents/Operators</label><attribute name="id">7.2.1.1</attribute></item>
+			<item><label>Customer Care Occupations</label><attribute name="id">7.2.1.2</attribute></item>
+	 	</list></item>
+ 	</list></item>
+</list></item>
+<item><label>Process, Plant and Machine Operatives</label><attribute name="id">8.0.0.0</attribute><list>
+	<item><label>Process, Plant and Machine Operatives</label><attribute name="id">8.1.0.0</attribute><list>
+		<item><label>Process Operatives</label><attribute name="id">8.1.1.0</attribute><list>
+			<item><label>Food, Drink and Tobacco Process Operatives</label><attribute name="id">8.1.1.1</attribute></item>
+			<item><label>Glass and Ceramics Process Operatives</label><attribute name="id">8.1.1.2</attribute></item>
+			<item><label>Textile Process Operatives</label><attribute name="id">8.1.1.3</attribute></item>
+			<item><label>Chemical and Related Process Operatives</label><attribute name="id">8.1.1.4</attribute></item>
+			<item><label>Rubber Process Operatives</label><attribute name="id">8.1.1.5</attribute></item>
+			<item><label>Plastics Process Operatives</label><attribute name="id">8.1.1.6</attribute></item>
+			<item><label>Metal Making and Treating Process Operatives</label><attribute name="id">8.1.1.7</attribute></item>
+			<item><label>Electroplaters</label><attribute name="id">8.1.1.8</attribute></item>
+			<item><label>Process Operatives N.E.C.</label><attribute name="id">8.1.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Plant and Machine Operatives</label><attribute name="id">8.1.2.0</attribute><list>
+			<item><label>Paper and Wood Machine Operatives</label><attribute name="id">8.1.2.1</attribute></item>
+			<item><label>Coal Mine Operatives</label><attribute name="id">8.1.2.2</attribute></item>
+			<item><label>Quarry Workers and Related Operatives</label><attribute name="id">8.1.2.3</attribute></item>
+			<item><label>Energy Plant Operatives</label><attribute name="id">8.1.2.4</attribute></item>
+			<item><label>Metal Working Machine Operatives</label><attribute name="id">8.1.2.5</attribute></item>
+			<item><label>Water and Sewerage Plant Operatives</label><attribute name="id">8.1.2.6</attribute></item>
+			<item><label>Plant and Machine Operatives N.E.C.</label><attribute name="id">8.1.2.9</attribute></item>
+	 	</list></item>
+		<item><label>Assemblers and Routine Operatives</label><attribute name="id">8.1.3.0</attribute><list>
+			<item><label>Assemblers (Electrical Products)</label><attribute name="id">8.1.3.1</attribute></item>
+			<item><label>Assemblers (Vehicles and Metal Goods)</label><attribute name="id">8.1.3.2</attribute></item>
+			<item><label>Routine Inspectors and Testers</label><attribute name="id">8.1.3.3</attribute></item>
+			<item><label>Weighers, Graders, Sorters</label><attribute name="id">8.1.3.4</attribute></item>
+			<item><label>Tyre, Exhaust and Windscreen Fitters</label><attribute name="id">8.1.3.5</attribute></item>
+			<item><label>Clothing Cutters</label><attribute name="id">8.1.3.6</attribute></item>
+			<item><label>Sewing Machinists</label><attribute name="id">8.1.3.7</attribute></item>
+			<item><label>Routine Laboratory Testers</label><attribute name="id">8.1.3.8</attribute></item>
+			<item><label>Assemblers and Routine Operatives N.E.C.</label><attribute name="id">8.1.3.9</attribute></item>
+	 	</list></item>
+		<item><label>Construction Operatives</label><attribute name="id">8.1.4.0</attribute><list>
+			<item><label>Scaffolders, Stagers, Riggers</label><attribute name="id">8.1.4.1</attribute></item>
+			<item><label>Road Construction Operatives</label><attribute name="id">8.1.4.2</attribute></item>
+			<item><label>Rail Construction and Maintenance Operatives</label><attribute name="id">8.1.4.3</attribute></item>
+			<item><label>Construction Operatives N.E.C.</label><attribute name="id">8.1.4.9</attribute></item>
+	 	</list></item>
+	</list></item>
+	<item><label>Transport and Mobile Machine Drivers and Operatives</label><attribute name="id">8.2.0.0</attribute><list>
+		<item><label>Transport Drivers and Operatives</label><attribute name="id">8.2.1.0</attribute><list>
+			<item><label>Heavy Goods Vehicle Drivers</label><attribute name="id">8.2.1.1</attribute></item>
+			<item><label>Van Drivers</label><attribute name="id">8.2.1.2</attribute></item>
+			<item><label>Bus and Coach Drivers</label><attribute name="id">8.2.1.3</attribute></item>
+			<item><label>Taxi, Cab Drivers and Chauffeurs</label><attribute name="id">8.2.1.4</attribute></item>
+			<item><label>Driving Instructors</label><attribute name="id">8.2.1.5</attribute></item>
+			<item><label>Rail Transport Operatives</label><attribute name="id">8.2.1.6</attribute></item>
+			<item><label>Seafarers (Merchant Navy); Barge, Lighter and Boat Operatives</label><attribute name="id">8.2.1.7</attribute></item>
+			<item><label>Air Transport Operatives</label><attribute name="id">8.2.1.8</attribute></item>
+			<item><label>Transport Operatives N.E.C.</label><attribute name="id">8.2.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Mobile Machine Drivers and Operatives</label><attribute name="id">8.2.2.0</attribute><list>
+			<item><label>Crane Drivers</label><attribute name="id">8.2.2.1</attribute></item>
+			<item><label>Fork-Lift Truck Drivers</label><attribute name="id">8.2.2.2</attribute></item>
+			<item><label>Agricultural Machinery Drivers</label><attribute name="id">8.2.2.3</attribute></item>
+			<item><label>Mobile Machine Drivers and Operatives N.E.C.</label><attribute name="id">8.2.2.9</attribute></item>
+	 	</list></item>
+ 	</list></item>
+</list></item>
+<item><label>Elementary Occupations</label><attribute name="id">9.0.0.0</attribute><list>
+	<item><label>Elementary Trades, Plant and Storage Related Occupations</label><attribute name="id">9.1.0.0</attribute><list>
+		<item><label>Elementary Agricultural Occupations</label><attribute name="id">9.1.1.0</attribute><list>
+			<item><label>Farm Workers</label><attribute name="id">9.1.1.1</attribute></item>
+			<item><label>Forestry Workers</label><attribute name="id">9.1.1.2</attribute></item>
+			<item><label>Fishing and Agriculture Related Occupations N.E.C.</label><attribute name="id">9.1.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Elementary Construction Occupations</label><attribute name="id">9.1.2.0</attribute><list>
+			<item><label>Labourers in Building and Woodworking Trades</label><attribute name="id">9.1.2.1</attribute></item>
+			<item><label>Labourers in Other Construction Trades N.E.C.</label><attribute name="id">9.1.2.9</attribute></item>
+	 	</list></item>
+		<item><label>Elementary Process Plant Occupations</label><attribute name="id">9.1.3.0</attribute><list>
+			<item><label>Labourers in Foundries</label><attribute name="id">9.1.3.1</attribute></item>
+			<item><label>Industrial Cleaning Process Occupations</label><attribute name="id">9.1.3.2</attribute></item>
+			<item><label>Printing Machine Minders and Assistants</label><attribute name="id">9.1.3.3</attribute></item>
+			<item><label>Packers, Bottlers, Canners, Fillers</label><attribute name="id">9.1.3.4</attribute></item>
+			<item><label>Labourers in Process and Plant Operations N.E.C.</label><attribute name="id">9.1.3.9</attribute></item>
+	 	</list></item>
+		<item><label>Elementary Goods Storage Occupations</label><attribute name="id">9.1.4.0</attribute><list>
+			<item><label>Stevedores, Dockers and Slingers</label><attribute name="id">9.1.4.1</attribute></item>
+			<item><label>Other Goods Handling and Storage Occupations N.E.C.</label><attribute name="id">9.1.4.9</attribute></item>
+	 	</list></item>
+	</list></item>
+	<item><label>Elementary Administration and Service Occupations</label><attribute name="id">9.2.0.0</attribute><list>
+		<item><label>Elementary Administration Occupations</label><attribute name="id">9.2.1.0</attribute><list>
+			<item><label>Postal Workers, Mail Sorters, Messengers, Couriers</label><attribute name="id">9.2.1.1</attribute></item>
+			<item><label>Elementary Office Occupations N.E.C.</label><attribute name="id">9.2.1.9</attribute></item>
+	 	</list></item>
+		<item><label>Elementary Personal Services Occupations</label><attribute name="id">9.2.2.0</attribute><list>
+			<item><label>Hospital Porters</label><attribute name="id">9.2.2.1</attribute></item>
+			<item><label>Hotel Porters</label><attribute name="id">9.2.2.2</attribute></item>
+			<item><label>Kitchen and Catering Assistants</label><attribute name="id">9.2.2.3</attribute></item>
+			<item><label>Waiters, Waitresses</label><attribute name="id">9.2.2.4</attribute></item>
+			<item><label>Bar Staff</label><attribute name="id">9.2.2.5</attribute></item>
+			<item><label>Leisure and Theme Park Attendants</label><attribute name="id">9.2.2.6</attribute></item>
+			<item><label>Elementary Personal Services Occupations N.E.C.</label><attribute name="id">9.2.2.9</attribute></item>
+	 	</list></item>
+		<item><label>Elementary Cleaning Occupations</label><attribute name="id">9.2.3.0</attribute><list>
+			<item><label>Window Cleaners</label><attribute name="id">9.2.3.1</attribute></item>
+			<item><label>Road Sweepers</label><attribute name="id">9.2.3.2</attribute></item>
+			<item><label>Cleaners, Domestics</label><attribute name="id">9.2.3.3</attribute></item>
+			<item><label>Launderers, Dry Cleaners, Pressers</label><attribute name="id">9.2.3.4</attribute></item>
+			<item><label>Refuse and Salvage Occupations</label><attribute name="id">9.2.3.5</attribute></item>
+			<item><label>Elementary Cleaning Occupations N.E.C.</label><attribute name="id">9.2.3.9</attribute></item>
+	 	</list></item>
+		<item><label>Elementary Security Occupations</label><attribute name="id">9.2.4.0</attribute><list>
+			<item><label>Security Guards and Related Occupations</label><attribute name="id">9.2.4.1</attribute></item>
+			<item><label>Traffic Wardens</label><attribute name="id">9.2.4.2</attribute></item>
+			<item><label>School Crossing Patrol Attendants</label><attribute name="id">9.2.4.3</attribute></item>
+			<item><label>School Mid-Day Assistants</label><attribute name="id">9.2.4.4</attribute></item>
+			<item><label>Car Park Attendants</label><attribute name="id">9.2.4.5</attribute></item>
+			<item><label>Elementary Security Occupations N.E.C.</label><attribute name="id">9.2.4.9</attribute></item>
+	 	</list></item>
+		<item><label>Elementary Sales Occupations</label><attribute name="id">9.2.5.0</attribute><list>
+			<item><label>Shelf Fillers</label><attribute name="id">9.2.5.1</attribute></item>
+			<item><label>Elementary Sales Occupations N.E.C.</label><attribute name="id">9.2.5.9</attribute></item>
+	 	</list></item>
+ 	</list></item>
+</list></item>
+
+</list> 
+
+

@@ -1,0 +1,63 @@
+BODY
+{
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-IMAGE: url(../images/bkgrd-popup.gif);
+    FONT-SIZE: 9pt;
+    COLOR: black;
+    BACKGROUND-REPEAT: repeat-y;
+    FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif;
+	background-color: #336799;
+}
+
+h2
+{
+	FONT-SIZE: 14pt;
+}
+
+td
+{
+	FONT-SIZE: 9pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif;
+}
+
+INPUT
+{
+	FONT-SIZE: 9pt;
+	FONT-FAMILY: Verdana, Helvetica, Arial, sans-serif;
+}
+INPUT.btn
+{
+	padding: 2px 2px;
+	color:#008000;
+ 	font-weight:bold;
+}
+
+div.sample_attach, a.sample_attach
+{
+   padding: 5px 5px;
+  width: 150px;
+  border: 1px solid black;
+  background: #FFFFEE url(../images/arrow.png) no-repeat center right;
+  font-weight: 900;
+  color: #008000;
+}
+
+a.sample_attach
+{
+  display: block;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+form.sample_attach
+{
+  max-width: 300px;
+  position: absolute;
+  visibility: hidden;
+  border: 1px solid black;
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  background: #FFFFEE;
+  padding: 0px 5px 2px 5px;
+}
